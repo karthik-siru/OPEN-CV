@@ -8,3 +8,4 @@
 [Translations , Rotations , Flippings ](https://github.com/karthik-siru/OPEN-CV/blob/main/tanformation.py) <br>
 [Contours detection ](https://github.com/karthik-siru/OPEN-CV/blob/main/contour.py)<br>
 [Color-Spaces and conversion b/w them](https://github.com/karthik-siru/OPEN-CV/blob/main/color_spaces.py)<br>
+[Split and merge images into color channels ](https://github.com/karthik-siru/OPEN-CV/blob/main/split_merge.py)<br>
