@@ -13,3 +13,4 @@
 [Bitwise Operations on binary images](https://github.com/karthik-siru/OPEN-CV/blob/main/bitwise.py)<br>
 [Masking the images using binary images ](https://github.com/karthik-siru/OPEN-CV/blob/main/masking.py)<br>
 [Histogram for gray and color images ](https://github.com/karthik-siru/OPEN-CV/blob/main/histogram.py)<br>
+[Thresholding/Binarising Images ](https://github.com/karthik-siru/OPEN-CV/blob/main/thresholding.py)<br>
